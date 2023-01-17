@@ -7,6 +7,12 @@
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>
-
+    <modDependencies>
+    <!-- Ship Landing Beacon comes from Royalty? -->
+        <li>
+            <packageId>ludeon.rimworld.royalty</packageId>
+            <displayName>Royalty</displayName>
+        </li>
+    </modDependencies>
     <description>Ship Landing Beacons no longer break down.</description>
 </ModMetaData>
